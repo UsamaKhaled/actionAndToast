@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">code</string>
+    <string name="increaase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="plus">+</string>
+    <string name="minus">_</string>
+    <string name="RG">count</string>
+</resources>
